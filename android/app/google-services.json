@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "827664211995",
+    "firebase_url": "https://facerecognition-4dc7a.firebaseio.com",
+    "project_id": "facerecognition-4dc7a",
+    "storage_bucket": "facerecognition-4dc7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827664211995:android:a515141cdd77ed8b54d8be",
+        "android_client_info": {
+          "package_name": "com.facerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827664211995-clr2k2dnsme3de0d6kasm626u6fenrvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.facerecognition",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "827664211995-sl1sedpb54in5ge2emrgdi3d5hnopmut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHT5Yyisfe1LvYGj1CJ-fqBgYQqhZL1HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827664211995-sl1sedpb54in5ge2emrgdi3d5hnopmut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
